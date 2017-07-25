@@ -6,8 +6,10 @@ Written originally for radio by Georges Perec in 1967, it has since been perform
 
 The work is also available as an [interactive web page](http://www.theartofaskingyourbossforaraise.com).
 
-I've created a [Python program](./blob/master/ask-for-a-pay-rise.py) which you can run at the console:
+I've created a [Python program](./ask-for-a-pay-rise.py) which you can run at the console:
 
    $ python ask-for-a-pay-rise.py
 
-I've also [published a version](./blob/master/index.js) to run on Amazon's Alexa voice computing platform. The backend is an AWS lambda function which uses the Alexa SDK. The frontend is an Alexa Skill.
+I've also [published a version](./index.js) to run on Amazon's Alexa voice computing platform. The backend is an AWS lambda function which uses the Alexa SDK. The frontend is an Alexa Skill.
+
+![Perec](./images/perec512.jpg)
