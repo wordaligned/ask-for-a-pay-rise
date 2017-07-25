@@ -12,6 +12,6 @@ I've created a [Python program](./pay-rise-please.py) which you can run at the c
 
    $ python pay-rise-please.py
 
-I've also [published a version](./index.js) to run on Amazon's Alexa voice computing platform. The backend is an AWS lambda function which uses the Alexa SDK. The frontend is an Alexa Skill.
+I've also [published a version](./index.js) to run on Amazon's Alexa voice computing platform. The backend is an AWS lambda function which uses the Alexa SDK. The frontend is an Alexa Skill which you can [download for free](https://www.amazon.co.uk/Mr-Pay-rise-please/dp/B07417SK8N).
 
 ![Perec](./images/perec512.jpg)
