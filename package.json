@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-pay-rise-please",
+  "version": "1.0.0",
+  "description": "Pay rise please Alexa skill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "pay",
+    "rise",
+    "perec"
+  ],
+  "author": "wordaligned.org",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
